@@ -1,0 +1,31 @@
+Skript zum abfragen von Websites ob es neue Softwareversionen gibt und und des hineinschreibens in eine Exceldatei
+    Software:
+        Thywissen:
+            C++ Redist (windows)
+            XML (über Windows Updates)
+            Java (noch)
+            WMF (Windows)
+            .net (Windows)
+            Adobe Flash
+            Adobe Acrobat DC
+            SQL Management Studio
+            Notepad++
+            WinSCP
+            Putty
+            mRemote NG
+            7-zip
+            Firefox
+            Citrix Workspace (Receiver)
+            CDBurnerXP
+            FileZilla Client
+            FileZilla Server
+            Chrome
+            Intel ME
+            Teamviewer
+            SQLYog
+            Openoffice
+            PdfEditor
+            PixelPlanet PdfPrinter
+            CutePDF Writer
+            Greenshot
+            Treesize
